@@ -1,7 +1,0 @@
-.chart-bar {
-    -fx-bar-fill: #90ee90; /* Default color for positive bars */
-}
-
-.chart-bar.negative {
-    -fx-bar-fill: #ff6347; /* Color for negative bars */
-}
